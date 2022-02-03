@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
-<h3 align="center">I am a Software Engineer Intern at Axway and Computer Science Student at the Techincal University of Sofia. Follow my journey on becoming the best DEV I can be.</h3>
 
 - 🔭 Currently I work at [Axway](https://www.axway.com/en)
 
