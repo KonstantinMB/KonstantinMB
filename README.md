@@ -2,19 +2,17 @@
 
 - 🔭 Currently I work at [Axway](https://www.axway.com/en)
 
-- 🌱 I’m currently learning **Java, Python, Different Design Patterns, working with Spring, Data Engineering**
+- 🌱 I’m currently learning **Java, Python, different Design Patterns, working with Spring and Data Engineering**
 
 - ⏩ In my spare time I work on side projects, like [Budget Tracking API](https://github.com/KonstantinMB/ExpenseTrackerAPI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KonstantinMB](https://github.com/KonstantinMB)
 
-- 💬 Ask me about **anything you want**
-
-- 📫 How to reach me **konstantinmb@yahoo.com**
+- 📫 Reach me either by DM in linked in or email me @ **konstantinmb@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kbor/](https://www.linkedin.com/in/kbor/)
 
-- ⚡ Fun fact **I don't like olives 😅**
+- ⚡ Fun fact: **I don't like olives 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
