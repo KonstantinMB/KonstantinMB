@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
 
-- 🔭 Currently I work at [Axway](https://www.axway.com/en)
+- 🔭 Currently I work at [Tide](https://www.tide.co/)
 
 - 🌱 I’m currently learning **Java, Python, different Design Patterns, working with Spring and Data Engineering**
 
