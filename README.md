@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
 
-- 🔭 Currently I work at [Tide](https://www.tide.co/)
+- 🔭 Currently working at [Tide](https://www.tide.co/), on private projects!
 
 - 🌱 I’m currently learning **Java, Python, Software Architecture and implementations of design patterns, the Spring Framework, Vuejs and much more..**
 
