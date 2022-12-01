@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, Python, Software Architecture and implementations of design patterns, the Spring Framework, Vuejs and much more..**
 
-- ⏩ In my spare time I work on side projects, like [Budget Tracking API](https://github.com/KonstantinMB/ExpenseTrackerAPI)
+- ⏩ In my spare time I work on side projects, like [mypfinance](https://github.com/KonstantinMB/mypfinance/mypfinance)
 
 - 📫 Reach me either by DM in linked in or email me @ **konstantinmb@yahoo.com**
 
