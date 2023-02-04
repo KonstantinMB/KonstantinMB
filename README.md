@@ -6,6 +6,4 @@
 
 - 📫 Reach me either by DM in linked in or email me @ **konstantinmb@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kbor/](https://www.linkedin.com/in/kbor/)
-
-Connect with me via [LinkedIn](https://www.linkedin.com/in/kbor/)
+- 📄 Know about my experiences by going to my [LinkedIn](https://www.linkedin.com/in/kbor/)
