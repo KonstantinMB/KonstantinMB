@@ -5,7 +5,5 @@
 - 🔭 Currently working as a software engineer at a fintech company
 
 - ⏩ In my spare time I love to write blog posts for [my Medium](https://medium.com/@konstantinmb) and look at [my Twitter/X](https://twitter.com/konstantinmbv) where I post regurarly!
-
-- 📫 Email: @ **konstantin.borimechkov14@gmail.com**
   
 - 📄 For more on my experience, go to my [LinkedIn](https://www.linkedin.com/in/kbor/)
