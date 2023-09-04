@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Konstantin</h1>
+<h1 align="center">Hi 👋, you can call me Koko</h1>
 
-- 🔭 Currently working as a software engineer at [Tide](https://www.tide.co/) and computer science student 🧑‍🎓 at the Technical University of Sofia!
+- 🚀 Looking forward to gain more experience in the Solidity language and dive deep in the Web3 world as an engineer and security auditor! 🔐
 
-- ⏩ In my spare time I work on side projects such as [mypfinance](https://github.com/mypfinance/mypfinance)
+- 🔭 Currently working as a software engineer at a fintech company
 
-- 📫 Reach me either by DM in linked in or email me @ **konstantinmb@yahoo.com**
+- ⏩ In my spare time I love to write blog posts for [my Medium](https://medium.com/@konstantinmb) and look at [my Twitter/X](https://twitter.com/konstantinmbv) where I post regurarly!
 
-- 📄 Know about my experiences by going to my [LinkedIn](https://www.linkedin.com/in/kbor/)
+- 📫 Email: @ **konstantin.borimechkov14@gmail.com**
+  
+- 📄 For more on my experience, go to my [LinkedIn](https://www.linkedin.com/in/kbor/)
