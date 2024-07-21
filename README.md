@@ -1,27 +1,10 @@
-<div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/73ffe6ac-267d-4d54-91ae-8d126e950443?mask=circle"  />
+###
 
-</div>
+<h1 align="center">Hey there 👋 </h1>
 
 ###
 
-<div align="center">
-  [![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/kbor)
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
-
-<h1 align="center">hello there 👀</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Koko from Sofia, Bulgaria 🇧🇬<br><br>- 🔭 I’m working as a software engineer at [Tide](https://www.tide.co/)<br>- 📚 I'm currently developing my own SaaS - check it out [@ tradelikebot.com](https://tradeliekbot.com)<br>- ⚡ In my free time I write blogs on [Medium](https://medium.com/@konstantinmb) & play tennis 🎾</p>
+<p align="left">I'm Koko from Sofia, Bulgaria 🇧🇬<br><br>- 🔭 I’m Working as a Software Engineer at <a href="https://tide.co">Tide</a><br>- 📚 I'm Currently Developing my own SaaS - Check it out <a href="https://tradelikebot.com">@ tradelikebot.com</a><br>- ⚡ In my Free Time I Write Blogs in <a href="https://medium.com/@konstantinmb">My Mediu Page</a>, Play Tennis 🎾 & Go To The Gym!</p>
 
 ###
 
