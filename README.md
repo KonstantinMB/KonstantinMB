@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Koko from Sofia, Bulgaria 🇧🇬<br><br>- 🔭 I’m Working as a Software Engineer at <a href="https://tide.co">Tide</a><br>- 📚 I'm Currently Developing my own SaaS - Check it out <a href="https://tradelikebot.com">@ tradelikebot.com</a><br>- ⚡ In my Free Time I Write Blogs in <a href="https://medium.com/@konstantinmb">My Mediu Page</a>, Play Tennis 🎾 & Go To The Gym<br>- For More Info About My Experience, Check out <a href="https://www.linkedin.com/in/kbor/">My LinkedIn</a>, Where I Post Regurarly </p>
+<p align="left">I'm Koko from Sofia, Bulgaria 🇧🇬<br><br>- 🔭 I’m Working as a Software Engineer at <a href="https://tide.co">Tide</a><br>- 📚 I'm Currently Developing my own SaaS - Check it out <a href="https://tradelikebot.com">@ tradelikebot.com</a><br>- ⚡ In my Free Time I Write Blogs in <a href="https://medium.com/@konstantinmb">My Medium Page</a>, Play Tennis 🎾 & Go To The Gym<br>- For More Info About My Experience, Check out <a href="https://www.linkedin.com/in/kbor/">My LinkedIn</a>, Where I Post Regurarly </p>
 
 ###
 
